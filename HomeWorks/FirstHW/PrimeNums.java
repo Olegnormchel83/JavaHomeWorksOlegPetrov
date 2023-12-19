@@ -1,3 +1,9 @@
+// Напишите функцию printPrimeNums, 
+// которая выведет на экран все простые числа в промежутке от 1 до 1000, 
+// каждое на новой строке.
+
+// Напишите свой код в методе printPrimeNums класса Answer.
+
 package HomeWorks.FirstHW;
 
 public class PrimeNums {
