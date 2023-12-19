@@ -5,8 +5,8 @@ public class Calculator {
         System.out.println(Calc('+', 3, 7));
     }
 
-    public static int Calc(char op, int a, int b) {
-        int res = 0;
+    public static double Calc(char op, int a, int b) {
+        double res = 0;
 
         switch (op) {
             case '+':
