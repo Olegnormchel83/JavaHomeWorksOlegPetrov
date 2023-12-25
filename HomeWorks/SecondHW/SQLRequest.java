@@ -1,3 +1,7 @@
+//Лень лезть за полным условием
+//Если вкратце, то необходимо распарсить строку PARAMS 
+//И спаять ее с QUERY так, чтобы получился валидный sql-запрос
+
 package HomeWorks.SecondHW;
 
 public class SQLRequest {
